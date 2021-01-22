@@ -1,0 +1,68 @@
+.heading1{
+    color:white;
+    background-color: black;
+    
+    }
+    .h2{
+    text-decoration:underline;
+    }
+    .body1 {
+      background-color: lightblue;
+    }
+    
+    .a{
+    color:blue;
+    }
+    
+    .navbar
+    {
+     
+        background-color: black; 
+    } 
+    .description{
+    position:relative;
+    top:70px;
+    margin:25px;
+    border: 5px solid red;
+    }
+    .navbar-dark .navbar-toggler-icon {
+      background-image: url("data:image/svg+xml;..");
+    }
+    .custom-toggler .navbar-toggler-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    }
+    
+    .custom-toggler.navbar-toggler {
+      border-color: rgb(255,102,203);
+    } 
+    .navbar {
+      border-bottom: 5px solid grey;
+    font-family: 'Open Sans', sans-serif;
+    }
+    .Link{
+    color:#66ccff;
+    font-size:20px;
+    font-family: 'Open Sans', sans-serif;
+    }
+    .mainhead{
+    font-family: 'Roboto Mono', monospace;}
+    .mainhead:Hover{
+    text-decoration:underline;
+    
+    }
+    .Ria{
+    font-family: 'Open Sans', sans-serif;
+    color:lightblue;
+    }
+    .dark{
+      background-color: green;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      width:95%;
+      border-radius: 10px;
+    }
